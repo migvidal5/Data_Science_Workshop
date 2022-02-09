@@ -2,7 +2,7 @@
 
 
 Resources
-1.	[Python for Sport Scientists- Descriptive Statistics] (https://towardsdatascience.com/python-for-sport-scientists-descriptive-statistics-96ed7e66ab3c)
+1.	[Python for Sport Scientists- Descriptive Statistics](https://towardsdatascience.com/python-for-sport-scientists-descriptive-statistics-96ed7e66ab3c)
 2.	R for Sport Scientists
 3.	5 Steps of a Data Science Project Lifecycle
 4.	Free Sport Science Data
