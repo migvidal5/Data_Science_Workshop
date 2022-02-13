@@ -1,8 +1,6 @@
-library(dplyr)
-library(tidyr)
 library(tidyverse)
 library(psych)
-library(ggplot2)
+
 
 
 df <- read_csv('Oura Ring Data/oura_2019_trends.csv')
