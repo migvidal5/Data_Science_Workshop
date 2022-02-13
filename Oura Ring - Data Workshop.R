@@ -5,7 +5,7 @@ library(psych)
 library(ggplot2)
 
 
-df <- read_csv('/Users/miguelvidal/Downloads/public_sport_science_datasets-main/Oura Ring Data/oura_2019_trends.csv')
+df <- read_csv('Oura Ring Data/oura_2019_trends.csv')
 
 # head() will show the first 6 rows in the dataframe
 head(df)
